@@ -1,3 +1,3 @@
 # pytorch-on-android
-setup pytorch on android
+install pytorch on android
 coming soon...
