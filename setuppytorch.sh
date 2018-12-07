@@ -1,3 +1,4 @@
+#!/bin/bash
 pacman -S base-devel
 pacman -S git
 pacman -S python-pip
