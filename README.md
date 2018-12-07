@@ -17,3 +17,6 @@ Run Termux
 Run startarch
 
 Run setuppytorch.sh
+
+Demo here https://youtu.be/ox9TxZhmJ30
+
