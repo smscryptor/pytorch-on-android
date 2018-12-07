@@ -3,9 +3,9 @@
 install pytorch on android
 
 
-Reuqirements :
+Requirements :
 
-Install Termux from PlayStore
+Install Termux from Google Play Store
 
 Install Archlinux from https://sdrausty.github.io/TermuxArch/docs/install.html
 
