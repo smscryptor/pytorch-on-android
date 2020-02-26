@@ -16,6 +16,8 @@ Run Termux
 
 Run startarch
 
+Download https://github.com/smscryptor/pytorch-on-android/blob/master/setuppytorch.sh
+
 Run setuppytorch.sh
 
 Demo here https://youtu.be/ox9TxZhmJ30
