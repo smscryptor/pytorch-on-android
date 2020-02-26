@@ -1,6 +1,7 @@
 #!/bin/bash
 pacman -S base-devel
 pacman -S git
+pacman -S cmake
 pacman -S python-pip
 git clone http://github.com/pytorch/pytorch
 cd pytorch
