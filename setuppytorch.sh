@@ -7,6 +7,6 @@ cd pytorch
 git submodule update --init --recursive
 pip install -U setuptools
 pip install -r requirements.txt
-python setup.py build_deps install
+python setup.py install
 cd ..
 
