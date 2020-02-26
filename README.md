@@ -7,7 +7,7 @@ Requirements :
 
 Install Termux from Google Play Store https://play.google.com/store/apps/details?id=com.termux
 
-Install Archlinux from https://sdrausty.github.io/TermuxArch/docs/install.html
+Install Archlinux from https://sdrausty.github.io/TermuxArch/
 
 
 Install :
