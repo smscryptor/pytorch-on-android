@@ -4,7 +4,7 @@ pacman -S git
 pacman -S cmake
 pacman -S linux-headers
 pacman -S python-pip
-git clone http://github.com/pytorch/pytorch
+git clone https://github.com/pytorch/pytorch
 cd pytorch
 git checkout v1.3.1
 git submodule update --init --recursive
