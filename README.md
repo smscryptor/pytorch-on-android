@@ -22,3 +22,6 @@ Run setuppytorch.sh
 
 Demo here https://youtu.be/ox9TxZhmJ30
 
+Troubleshooting :
+
+- MAKE EXIT STATUS 1, might be not enough RAM, rebuild with "MAX_JOBS=1 make all"
