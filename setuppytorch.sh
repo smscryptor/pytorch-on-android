@@ -8,8 +8,8 @@ git clone https://github.com/pytorch/pytorch.git
 cd pytorch
 git checkout v1.3.1
 git submodule update --init --recursive
-pip install -U setuptools
-pip install -r requirements.txt
-python setup.py install
+pip2 install -U setuptools
+pip2 install -r requirements.txt
+python2 setup.py install
 cd ..
 
