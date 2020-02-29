@@ -4,7 +4,7 @@ pacman -S git
 pacman -S cmake
 pacman -S linux-headers
 pacman -S python-pip
-git clone https://github.com/smscryptor/pytorch.git
+git clone https://github.com/pytorch/pytorch.git
 cd pytorch
 git submodule update --init --recursive
 pip install -U setuptools
